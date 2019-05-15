@@ -6,7 +6,7 @@
 
 ## Usage
 
-`git@github.com:RealLukeMartin/reactdocker.git`
+`git clone git@github.com:RealLukeMartin/reactdocker.git`
 
 `cd reactdocker`
 
