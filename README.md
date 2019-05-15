@@ -1,4 +1,5 @@
 # React Docker
+[![Build Status](https://travis-ci.org/RealLukeMartin/reactdocker.svg?branch=master)](https://travis-ci.org/RealLukeMartin/reactdocker)
 
 ## Requirements
 - docker
