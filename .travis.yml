@@ -6,4 +6,4 @@ before_install:
   - docker build -t reallukemartin/reactdocker -f Dockerfile.dev .
 
 script:
-  - docker run reallukemartin/reactdocker npm run test -- --coverage
+  - docker run reallukemartin/reactdocker npm run test --coverage --
